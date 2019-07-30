@@ -1,0 +1,5 @@
+classes=1
+train = /home/higashide/yolo/darknet/data/trafficlight/train.txt
+valid = /home/higashide/yolo/darknet/data/trafficlight/test.txt
+names = /home/higashide/yolo/darknet/data/trafficlight/labels.names
+backup = /home/higashide/yolo/darknet/data/trafficlight/backup
